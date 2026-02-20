@@ -8,7 +8,7 @@ from document_generator import DocumentGenerator
 logger = logging.getLogger(__name__)
 
 class Orchestrator:
-    def __init__(self, source_text_path: str, model: str = "llama-3.3-70b-versatile"):
+    def __init__(self, source_text_path: str, model: str = "llama-3.3-70b-versatile", num_sections: int = 5):
         """
         Initializes the Orchestrator by loading the ground truth document 
         and initializing the Evaluator Agent and Generator.
@@ -22,7 +22,7 @@ class Orchestrator:
         self.tool_registry.load_context(chunks)
         
         self.evaluator = EvaluatorAgent(self.tool_registry, model=model)
-        self.generator = DocumentGenerator(model=model)
+        self.generator = DocumentGenerator(model=model, num_sections=num_sections)
         
     def _load_file(self, filepath: str) -> str:
         try:

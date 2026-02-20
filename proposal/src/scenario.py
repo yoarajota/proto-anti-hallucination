@@ -8,20 +8,17 @@ from orchestrator import Orchestrator
 load_dotenv()
 
 async def main():
-    # We set logging to INFO so you can see what the tool is doing under the hood!
     logging.basicConfig(level=logging.INFO)
     logging.getLogger("httpx").setLevel(logging.WARNING)
 
-    # For default local testing without an API key, assuming we mock litellm or require user to provide it.
-    # We'll assume the user has set it up via `.env` or has loaded it in their env.
-    model_name = "llama-3.3-70b-versatile" 
+    model_name = "meta-llama/llama-4-scout-17b-16e-instruct" 
 
     # Initialize Orchestrator and load our ground-truth vector DB
     script_dir = os.path.dirname(os.path.abspath(__file__))
     scenario_dir = os.path.join(script_dir, "..", "scenario")
     
     source_file = os.path.join(scenario_dir, "source_knowledge.txt")
-    orchestrator = Orchestrator(source_text_path=source_file, model=model_name)
+    orchestrator = Orchestrator(source_text_path=source_file, model=model_name, num_sections=5)
     print("Context loaded successfully into ChromaDB!")
 
     generated_file = os.path.join(scenario_dir, "mocked_generation.md")

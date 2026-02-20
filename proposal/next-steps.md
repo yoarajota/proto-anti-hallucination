@@ -75,8 +75,3 @@ Below are the actionable next steps to transition from the current prototype to 
 
 - **Action 10.1:** Define a global "Style Guide" prompt injection that persists across all iterative calls.
 - **Action 10.2:** Use an LLM judge as a final pass to smooth out transitions between independently generated sections.
-
----
-
-**Immediate Recommendation:**
-I recommend starting with **Step 2 (Asynchronous Concurrent Evaluation)**. This provides the highest immediate value by fixing the most severe bottleneck (latency) in the current code, setting the stage for faster iteration in the future.
