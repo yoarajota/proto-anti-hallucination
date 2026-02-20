@@ -1,0 +1,6 @@
+chromadb
+groq
+nbformat
+pytest
+pytest-asyncio
+python-dotenv

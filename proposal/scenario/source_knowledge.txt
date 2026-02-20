@@ -1,0 +1,661 @@
+# Mango Cultivation in Brazil
+
+## Main Growing Regions
+
+### 1. Vale do São Francisco (Primary Region)
+- **Location**: Border of Bahia and Pernambuco states
+- **Cities**: Petrolina (PE), Juazeiro (BA)
+- **Climate**: Semi-arid (BSh Köppen)
+- **Coordinates**: 9°S latitude
+- **Annual Rainfall**: 400-500mm
+- **Temperature**: 24-28°C average
+- **Altitude**: 300-400m
+- **Irrigated Area**: 120,000+ hectares
+- **Production Share**: 90% of Brazilian mango exports
+
+#### Advantages of Vale do São Francisco
+1. **São Francisco River**: Year-round irrigation water
+2. **Low Humidity**: Reduces fungal disease pressure
+3. **Consistent Sunlight**: 3,000+ hours/year
+4. **Temperature Range**: Enables flower induction
+5. **Sandy Soils**: Good drainage
+6. **Infrastructure**: Export-ready packing houses, airport
+
+### 2. Northern Minas Gerais
+- **Location**: Jaíba, Janaúba, Manga
+- **Climate**: Tropical semi-arid
+- **Production**: Growing significantly
+- **Specialties**: Tommy Atkins, Palmer
+- **Note**: Jaíba irrigation project
+
+### 3. São Paulo Interior
+- **Location**: Taquaritinga, Monte Alto, Jaboticabal
+- **Climate**: Tropical with dry winter
+- **Focus**: Domestic market, processing
+- **History**: Traditional production area
+
+### 4. Ceará (Emerging)
+- **Location**: Jaguaruana, Quixeré
+- **Climate**: Semi-arid
+- **Status**: Rapidly expanding
+- **Focus**: Export market
+
+## Cultivation Practices
+
+### Planting
+- **Spacing**: 8m x 5m (250 trees/hectare) traditional
+- **High Density**: 5m x 2.5m (800 trees/hectare) modern
+- **Rootstock**: Commonly Espada or Coquinho
+- **Grafting**: Cleft or whip grafting
+
+### Irrigation Systems
+1. **Drip Irrigation** (most common)
+   - Water efficiency: 90%+
+   - Fertigation capability
+   - Precise water control
+
+2. **Micro-Sprinkler**
+   - Good coverage
+   - Slightly higher water use
+   - Better for larger canopies
+
+3. **Water Requirements**
+   - Young trees: 40-80 L/day
+   - Mature trees: 150-300 L/day
+   - Peak demand: Fruit development
+
+### Flowering Induction (Key Technology)
+
+#### Natural Flowering Factors
+- Temperature drop (below 20°C nights)
+- Water stress period
+- Maturity of growth flush
+
+#### Induced Flowering Protocol
+1. **Paclobutrazol (PBZ)** application
+   - Growth regulator
+   - Applied to soil 3-4 months before desired flowering
+   - Dose: 1-2g per meter of canopy diameter
+
+2. **Water Stress**
+   - 4-6 weeks without irrigation
+   - Stresses tree to induce dormancy
+
+3. **Potassium Nitrate (KNO₃) Spray**
+   - 2-3% solution
+   - Applied when buds are swollen
+   - Triggers synchronized flowering
+
+4. **Result**
+   - Can produce 2-3 harvests per year
+   - Timing control for market windows
+
+### Fertilization
+
+#### Annual Requirements (per tree)
+| Nutrient | Young Tree | Mature Tree |
+|----------|-----------|-------------|
+| Nitrogen | 100-200g | 400-600g |
+| Phosphorus | 50-100g | 150-200g |
+| Potassium | 100-200g | 500-800g |
+
+#### Key Nutrients
+- **Nitrogen**: Vegetative growth, leaf production
+- **Potassium**: Fruit quality, sugar content
+- **Calcium**: Cell wall strength, shelf life
+- **Boron**: Flowering, fruit set
+- **Zinc**: Leaf development
+
+### Pest Management
+
+#### Major Pests
+1. **Fruit Fly (Ceratitis capitata)**
+   - Control: Traps, baits, biological control
+   - Export requirement: Zero tolerance
+
+2. **Mango Seed Weevil**
+   - Quarantine pest for some markets
+   - Hot water treatment required
+
+3. **Thrips**
+   - Damages flowers and young fruit
+   - Control: Targeted insecticides
+
+#### Major Diseases
+1. **Anthracnose (Colletotrichum gloeosporioides)**
+   - Most important disease
+   - Control: Fungicides, resistant varieties
+   - Worse in humid conditions
+
+2. **Powdery Mildew**
+   - Affects flowers and young fruit
+   - Control: Sulfur, fungicides
+
+3. **Bacterial Black Spot**
+   - Quarantine concern for EU
+   - Control: Copper, sanitation
+
+### Post-Harvest Handling
+
+#### Packing House Operations
+1. **Reception and Cleaning**
+   - Remove field debris
+   - Initial quality sorting
+
+2. **Hydrothermal Treatment**
+   - 46.1°C for 75-90 minutes (varies by fruit size)
+   - Required for US market (fruit fly control)
+
+3. **Cooling**
+   - Hydrocooling or forced air
+   - Target: 12-13°C
+
+4. **Fungicide Treatment**
+   - Thiabendazole dip
+   - Prevents post-harvest decay
+
+5. **Waxing**
+   - Reduces moisture loss
+   - Improves appearance
+
+6. **Grading and Packing**
+   - Size classification (6-20 count per 4kg box)
+   - Quality standards
+
+7. **Cold Storage/Transport**
+   - Temperature: 12-13°C
+   - Humidity: 85-90%
+   - Transit time to EU: 14-18 days by sea
+
+### Sustainability Practices
+
+#### Water Management
+- Deficit irrigation strategies
+- Water recycling
+- Soil moisture monitoring
+
+#### Integrated Pest Management
+- Biological control agents
+- Pheromone traps
+- Reduced chemical inputs
+
+#### Certifications
+- GLOBALGAP (required for EU)
+- Organic certification growing
+- Rainforest Alliance
+- Carbon footprint programs
+
+---
+Source: EMBRAPA, CODEVASF, SENAR
+Source URL: https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1031747/1/Cultivo-da-Mangueira.pdf
+Data Date: 2024
+
+
+# Brazilian Mango Export Data
+
+## Production Overview (2023)
+- **Total Production**: Approximately 1.4 million metric tons
+- **Export Volume**: 250,000+ metric tons
+- **Export Value**: US$ 280 million
+- **World Ranking**: 7th largest mango producer, 4th largest exporter
+- **Export Season**: September to March (counter-seasonal to Northern Hemisphere)
+
+## Top Export Destinations (2023)
+
+### 1. European Union (65% of exports)
+- **Netherlands**: Primary entry point, distribution hub (35%)
+- **United Kingdom**: 12%
+- **Portugal**: 8%
+- **Spain**: 5%
+- **Germany**: 5%
+
+### 2. United States (25% of exports)
+- Second largest market
+- Growing demand for organic mangos
+- Primary ports: Miami, Los Angeles
+
+### 3. Other Markets (10%)
+- Canada
+- Middle East (UAE, Saudi Arabia)
+- Asia (Japan, South Korea)
+
+## Export Varieties Breakdown
+| Variety | Share of Exports |
+|---------|-----------------|
+| Tommy Atkins | 79% |
+| Palmer | 12% |
+| Kent | 5% |
+| Keitt | 3% |
+| Others | 1% |
+
+## Key Export Statistics
+
+### Monthly Export Volume (2023 Season)
+- **September**: 15,000 MT (season start)
+- **October**: 45,000 MT (peak begins)
+- **November**: 55,000 MT (peak)
+- **December**: 50,000 MT
+- **January**: 40,000 MT
+- **February**: 30,000 MT
+- **March**: 15,000 MT (season end)
+
+### Historical Growth
+- 2019: 180,000 MT
+- 2020: 195,000 MT
+- 2021: 220,000 MT
+- 2022: 235,000 MT
+- 2023: 250,000 MT
+- Growth rate: ~8% annually
+
+## Competitive Advantages
+
+### Counter-Seasonal Supply
+Brazil's harvest (Sep-Mar) perfectly complements:
+- India/Pakistan (Apr-Jul)
+- Mexico (Mar-Sep)
+- Peru (Dec-Feb, direct competitor)
+
+### Geographic Positioning
+- Vale do São Francisco: 9°S latitude
+- Year-round irrigation from São Francisco River
+- Controlled flowering through irrigation management
+
+### Infrastructure
+- **Petrolina Airport**: Direct cargo flights to Europe
+- **Port of Salvador**: Maritime exports
+- **Cold Chain**: Advanced packing houses with GLOBALGAP certification
+
+## Certifications and Standards
+- **GLOBALGAP**: Required for EU exports
+- **GRASP**: Social practices certification
+- **Organic Certification**: Growing segment (5% of exports)
+- **Rainforest Alliance**: Environmental certification
+- **Fair Trade**: Social certification option
+
+## Price Information (2023 FOB)
+- Tommy Atkins: US$ 0.90-1.20/kg
+- Palmer: US$ 1.30-1.60/kg
+- Kent: US$ 1.50-1.80/kg
+- Organic Premium: +30-50% above conventional
+
+## Main Exporting Companies
+1. Agrodan
+2. Special Fruit
+3. Queiroz Galvão Alimentos
+4. Agrícola Famosa
+5. Vale do São Francisco Exportações
+
+---
+Source: Abrafrutas, SECEX/MDIC
+Source URL: https://ceagesp.gov.br/wp-content/uploads/2015/07/manga.pdf
+Data Date: 2023-2024
+
+
+# Nutritional Information - Brazilian Mangos
+
+## Basic Nutrition Facts (per 100g fresh mango)
+
+### Macronutrients
+- **Calories**: 60 kcal
+- **Carbohydrates**: 15g
+  - Sugars: 13.7g (fructose, glucose, sucrose)
+  - Dietary Fiber: 1.6g
+- **Protein**: 0.8g
+- **Fat**: 0.4g
+- **Water**: 83g
+
+### Vitamins
+
+#### Vitamin C (Ascorbic Acid)
+- **Amount**: 36.4mg (40% Daily Value)
+- **Benefits**: Immune support, collagen synthesis, antioxidant
+- **Note**: Brazilian mangos are excellent source, higher than many tropical fruits
+
+#### Vitamin A (as Beta-Carotene)
+- **Amount**: 54µg RAE (6% DV)
+- **Beta-Carotene**: 640µg
+- **Benefits**: Eye health, immune function, skin health
+- **Note**: Palmer variety contains highest levels
+
+#### Folate (Vitamin B9)
+- **Amount**: 43µg (11% DV)
+- **Benefits**: Cell division, DNA synthesis, pregnancy support
+
+#### Vitamin B6
+- **Amount**: 0.12mg (7% DV)
+- **Benefits**: Metabolism, brain function
+
+#### Vitamin E
+- **Amount**: 0.9mg (6% DV)
+- **Benefits**: Antioxidant, skin health
+
+#### Vitamin K
+- **Amount**: 4.2µg (4% DV)
+- **Benefits**: Blood clotting, bone health
+
+### Minerals
+
+#### Potassium
+- **Amount**: 168mg (4% DV)
+- **Benefits**: Blood pressure regulation, muscle function
+
+#### Magnesium
+- **Amount**: 10mg (2% DV)
+- **Benefits**: Enzyme function, nerve transmission
+
+#### Copper
+- **Amount**: 0.11mg (12% DV)
+- **Benefits**: Iron metabolism, antioxidant enzymes
+
+## Antioxidant Compounds
+
+### Polyphenols
+- **Mangiferin**: Unique to mangos, powerful antioxidant
+- **Quercetin**: Anti-inflammatory properties
+- **Gallic Acid**: Free radical scavenger
+- **Catechins**: Similar to those in green tea
+
+### Carotenoids
+- **Beta-Carotene**: Highest in ripe yellow-fleshed varieties
+- **Luteoxanthin**: Eye health
+- **Violaxanthin**: Antioxidant
+
+## Health Benefits
+
+### 1. Immune System Support
+- High vitamin C content
+- Vitamin A for mucosal immunity
+- Antioxidant protection
+
+### 2. Digestive Health
+- Dietary fiber aids digestion
+- Digestive enzymes (amylases) help break down carbs
+- Prebiotic compounds support gut bacteria
+
+### 3. Eye Health
+- Beta-carotene converts to vitamin A
+- Zeaxanthin and lutein protect retina
+- May reduce macular degeneration risk
+
+### 4. Skin Health
+- Vitamin C for collagen production
+- Vitamin A for cell turnover
+- Polyphenols protect against UV damage
+
+### 5. Heart Health
+- Potassium supports healthy blood pressure
+- Fiber helps manage cholesterol
+- Antioxidants reduce oxidative stress
+
+### 6. Blood Sugar Management
+- Despite sweetness, has moderate glycemic index (GI: 51)
+- Fiber slows sugar absorption
+- Mangiferin may improve insulin sensitivity
+
+## Variety-Specific Nutrition
+
+### Tommy Atkins
+- Moderate vitamin C: 28mg/100g
+- Good fiber content
+- Slightly lower sugar
+
+### Palmer
+- Higher beta-carotene (deeper orange flesh)
+- Sweeter: 16-18° Brix
+- Rich, creamy texture indicates higher fat-soluble vitamins
+
+### Kent
+- Highest sugar content: up to 20° Brix
+- Rich in carotenoids
+- Lower acidity
+
+## Storage Impact on Nutrition
+
+### Fresh (Peak Ripeness)
+- Maximum vitamin C content
+- Optimal enzyme activity
+- Best flavor compounds
+
+### Refrigerated (2-5°C)
+- Vitamin C decreases 10-15% per week
+- Carotenoids stable
+- Texture may suffer (chilling injury below 10°C)
+
+### Frozen
+- Retains most nutrients
+- Some texture loss
+- Good for smoothies and processing
+
+### Dried
+- Concentrated sugars and calories
+- Some vitamin C loss
+- Fiber and minerals concentrated
+
+## Recommended Intake
+- **General**: 1 medium mango (200g) provides excellent daily nutrition
+- **Vitamin C**: One mango provides 70-100% of daily needs
+- **Calories**: Moderate consumption recommended for those watching sugar intake
+
+---
+Source: USDA FoodData Central, TACO
+Source URL: https://www.embrapa.br/busca-de-solucoes-tecnologicas/-/produto-servico/7395/sistema-organico-de-producao-de-manga-para-a-regiao-da-chapada-diamantina-bahia
+Data Date: 2024
+
+
+# Brazilian Mango Seasons and Harvest Calendar
+
+## Overview
+Brazil's mango season runs from September to March, providing counter-seasonal supply to the Northern Hemisphere. The Vale do São Francisco region, thanks to irrigation, can produce mangos year-round with controlled flowering.
+
+## Main Harvest Calendar
+
+### Peak Season: October - December
+- **Volume**: 60% of annual production
+- **Varieties**: Tommy Atkins, Palmer, Haden
+- **Quality**: Highest sugar content due to optimal weather
+- **Price**: Most competitive due to high supply
+
+### Early Season: September
+- **Volume**: 8% of annual production
+- **Varieties**: Early Tommy Atkins
+- **Market**: Premium prices for first-to-market advantage
+- **Quality**: Good but sugar content building
+
+### Mid Season: January - February
+- **Volume**: 25% of annual production
+- **Varieties**: Kent, Palmer, late Tommy Atkins
+- **Market**: Strong European demand, reduced competition
+- **Quality**: Excellent, peak sweetness
+
+### Late Season: March
+- **Volume**: 7% of annual production
+- **Varieties**: Keitt (latest variety)
+- **Market**: Premium prices, limited supply
+- **Quality**: Very good, extends export window
+
+## Regional Harvest Timing
+
+### Vale do São Francisco (Petrolina-Juazeiro)
+- **Location**: Bahia/Pernambuco border, Semi-arid region
+- **Season**: August - March (extended through irrigation)
+- **Production**: 90% of exports originate here
+- **Advantage**: Controlled flowering via irrigation stress
+- **Altitude**: 300-400m
+
+### Minas Gerais (Northern Region)
+- **Location**: Jaíba, Janaúba
+- **Season**: October - February
+- **Specialties**: Tommy Atkins, Palmer
+- **Note**: Growing production area
+
+### São Paulo (Interior)
+- **Location**: Taquaritinga, Monte Alto
+- **Season**: November - January
+- **Focus**: Domestic market
+- **Note**: Traditional production area
+
+### Ceará
+- **Location**: Jaguaruana, Quixeré
+- **Season**: August - December
+- **Focus**: Growing export region
+- **Note**: New frontier for production
+
+## Flowering and Production Cycle
+
+### Natural Cycle
+1. **Vegetative Flush**: Post-harvest (April-May)
+2. **Dormancy**: Cool season (June-July)
+3. **Flowering**: Triggered by temperature drop (July-August)
+4. **Fruit Set**: August-September
+5. **Development**: 3-4 months
+6. **Harvest**: September-January
+
+### Induced Flowering (Vale do São Francisco)
+- **Technique**: Water stress + Paclobutrazol + KNO₃
+- **Purpose**: Control timing for market windows
+- **Result**: Year-round production capability
+- **Timing**: Can shift harvest by 2-3 months
+
+## Price Seasonality
+
+### September (Season Start)
+- Premium prices: +30-40% above average
+- Limited supply, high demand
+
+### October-November (Peak Supply)
+- Lowest prices of season
+- Best time for processing purchases
+- High competition among exporters
+
+### December (Holiday Season)
+- Moderate prices
+- European Christmas demand
+- Premium for gift-quality fruit
+
+### January-February (Post-Peak)
+- Rising prices: +15-20% above peak
+- Reduced supply
+- Kent variety commands premium
+
+### March (Season End)
+- Highest prices: +40-50% above average
+- Very limited Keitt supply
+- Last opportunity before off-season
+
+## Off-Season (April-August)
+
+### Brazilian Market
+- Very limited fresh supply
+- Prices 3-4x peak season
+- Frozen and processed products dominate
+
+### Import Competition
+- Peru: December-February
+- Mexico: March-September
+- Indian subcontinent: April-July
+
+## Weather Impact on Seasons
+
+### El Niño Effects
+- May delay flowering
+- Can reduce fruit set
+- Potential quality issues with excessive rain
+
+### La Niña Effects
+- Generally favorable
+- Good temperature differentials for flowering
+- Better fruit quality
+
+### Ideal Conditions
+- Temperature: 25-30°C daytime, 15-20°C night
+- Humidity: 60-70%
+- Rainfall: Minimal during flowering and harvest
+
+## Variety-Specific Timing
+
+| Variety | Harvest Start | Peak | End |
+|---------|--------------|------|-----|
+| Tommy Atkins | September | October-November | January |
+| Palmer | October | November-December | February |
+| Haden | November | December | January |
+| Kent | December | January | February |
+| Keitt | January | February | March |
+
+---
+Source: EMBRAPA, CODEVASF
+Source URL: https://ceagesp.gov.br/referencial-fotografico/manga/
+Data Date: 2024
+
+
+# Brazilian Mango Varieties
+
+## Tommy Atkins
+Tommy Atkins is the most widely cultivated and exported mango variety in Brazil, accounting for approximately 80% of all Brazilian mango exports. It is known for its:
+- **Appearance**: Oval shape, medium to large size (450-650g), red-orange skin with green and yellow undertones
+- **Flesh**: Firm, fibrous texture with medium sweetness
+- **Season**: September to January (peak October-November)
+- **Shelf Life**: Excellent, up to 21 days refrigerated, making it ideal for export
+- **Main Growing Regions**: Vale do São Francisco (Petrolina-Juazeiro), Northeast Brazil
+
+## Palmer
+Palmer is the second most exported variety, prized for its superior eating quality:
+- **Appearance**: Elongated shape, large size (400-600g), purple-red skin
+- **Flesh**: Smooth, virtually fiberless, sweet with rich flavor
+- **Sugar Content**: 16-18° Brix (higher than Tommy Atkins)
+- **Season**: October to February
+- **Growing Regions**: Vale do São Francisco, Minas Gerais
+
+## Haden
+One of the oldest commercial varieties, parent of many modern cultivars:
+- **Appearance**: Round to oval, medium size (350-450g), yellow-orange skin with red blush
+- **Flesh**: Rich, sweet flavor with mild fiber
+- **Historical Significance**: One of the first commercial mangos introduced to Brazil
+- **Season**: November to January
+
+## Kent
+Premium variety valued for its exceptional flavor:
+- **Appearance**: Large, oval shape (500-750g), greenish-yellow skin with red blush
+- **Flesh**: Rich, sweet, juicy with minimal fiber
+- **Sugar Content**: 17-20° Brix
+- **Season**: December to February
+- **Note**: Higher susceptibility to anthracnose, limiting export potential
+
+## Keitt
+Large, late-season variety:
+- **Appearance**: Very large (600-900g), oval shape, stays green even when ripe
+- **Flesh**: Sweet, juicy, limited fiber
+- **Season**: January to March (latest season)
+- **Advantage**: Extends Brazilian export season
+
+## Rosa (or Rosinha)
+Traditional Brazilian variety:
+- **Appearance**: Small (200-300g), pink-red skin
+- **Flesh**: Very sweet, aromatic
+- **Use**: Primarily domestic market, juice production
+- **Regions**: Traditional cultivation throughout Northeast
+
+## Espada (Sword Mango)
+Native Brazilian variety named for its elongated shape:
+- **Appearance**: Long, narrow, sword-like shape (300-400g), green-yellow skin
+- **Flesh**: Fibrous but highly aromatic
+- **Use**: Fresh consumption, juices, traditional cooking
+- **Cultural Significance**: Traditional variety dating to colonial period
+
+## Ubá
+Small variety used primarily for processing:
+- **Appearance**: Small (120-180g), yellow-green skin
+- **Flesh**: High fiber, very sweet and aromatic
+- **Use**: Juice concentrate, pulp production, compotes
+- **Main Region**: Minas Gerais (Zona da Mata)
+
+## Carlota
+Traditional aromatic variety:
+- **Appearance**: Small to medium (200-350g), yellow skin
+- **Flesh**: Extremely aromatic, sweet
+- **Season**: November to January
+- **Use**: Fresh market, artisanal products
+
+---
+Source: EMBRAPA (Brazilian Agricultural Research Corporation)
+Source URL: https://www.embrapa.br/agencia-de-informacao-tecnologica/cultivos/manga/pre-producao/caracteristicas/cultivares
+Data Date: 2024
