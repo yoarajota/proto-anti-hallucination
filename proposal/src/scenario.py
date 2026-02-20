@@ -11,7 +11,7 @@ async def main():
     logging.basicConfig(level=logging.INFO)
     logging.getLogger("httpx").setLevel(logging.WARNING)
 
-    model_name = "meta-llama/llama-4-scout-17b-16e-instruct" 
+    model_name = "llama-3.3-70b-versatile" 
 
     # Initialize Orchestrator and load our ground-truth vector DB
     script_dir = os.path.dirname(os.path.abspath(__file__))
